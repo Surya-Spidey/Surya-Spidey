@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Surya</h1>
+<h3 align="center">Aspiring Software Developer | Mechanical Engineer → IT</h3>
 
-<!--
-**Surya-Spidey/Surya-Spidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Mechanical Engineering Graduate (2025)
+- 💻 Currently learning Full Stack Development
+- 🔁 Transitioning into IT (target: SDE role)
+- 🧠 Learning: JavaScript, DSA, OOP, OS, Networking
+- 🛠️ Interested in MERN Stack & Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: JavaScript, Python
+- 🌐 Frontend: HTML, CSS
+- ⚙️ Tools: Git, GitHub, VS Code
+- 🔧 Other: Arduino, OpenCV (Basics)
+
+---
+
+## 📌 Projects
+### 🚗 Gate Automation using Number Plate Recognition
+- Built using YOLOv8 + EasyOCR
+- Detects vehicle plates and automates gate access
+- Logs data using Airtable + Web Dashboard
+
+### 📝 Notes App
+- Create, delete, and store notes
+- Uses LocalStorage & basic backend integration
+
+---
+
+## 📈 GitHub Stats
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: Pending
+- 📧 Email: suryaunder18@gmail.com
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
