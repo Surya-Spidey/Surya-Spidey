@@ -44,7 +44,5 @@
 ---
 
 ⭐ *“Consistency beats talent when talent doesn’t work hard.”*
-<div align="center"> 
-  ![snake gif](https://github.com/Surya-Spidey/Surya-Spidey/blob/output/github-snake-dark.svg)
-</div>
+![snake gif](https://github.com/Surya-Spidey/Surya-Spidey/blob/output/github-snake-dark.svg)
 
